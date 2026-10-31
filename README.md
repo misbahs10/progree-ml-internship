@@ -127,4 +127,4 @@ This repository serves as a documented portfolio of my practical work during the
 
 **Author:** Misbah Sajjad  
 **Field:** Artificial Intelligence & Data Science  
-**GitHub:** [misbahs10](https://github.com/misbahs10)
+**GitHub:** [misbahs10]([https://github.com/misbahs10](https://github.com/misbahs10/progree-ml-internship/)

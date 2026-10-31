@@ -1,0 +1,12 @@
+{
+    "dataset": "Ames Housing (OpenML house_prices)",
+    "model": "Ridge Regression",
+    "best_alpha": 10.0,
+    "best_cross_validation_r2": 0.8166483774058904,
+    "test_r2": 0.8779839457424816,
+    "test_rmse": 30592.530766005766,
+    "training_rows": 1168,
+    "testing_rows": 292,
+    "numeric_features": 36,
+    "categorical_features": 43
+}

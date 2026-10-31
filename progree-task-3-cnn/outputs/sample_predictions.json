@@ -1,0 +1,86 @@
+[
+    {
+        "image_number": 1,
+        "actual_class": "cat",
+        "predicted_class": "cat",
+        "confidence": 0.46905848383903503,
+        "correct": true
+    },
+    {
+        "image_number": 2,
+        "actual_class": "ship",
+        "predicted_class": "ship",
+        "confidence": 0.9884346723556519,
+        "correct": true
+    },
+    {
+        "image_number": 3,
+        "actual_class": "ship",
+        "predicted_class": "ship",
+        "confidence": 0.7936176657676697,
+        "correct": true
+    },
+    {
+        "image_number": 4,
+        "actual_class": "airplane",
+        "predicted_class": "ship",
+        "confidence": 0.5313187837600708,
+        "correct": false
+    },
+    {
+        "image_number": 5,
+        "actual_class": "frog",
+        "predicted_class": "frog",
+        "confidence": 0.9986963868141174,
+        "correct": true
+    },
+    {
+        "image_number": 6,
+        "actual_class": "frog",
+        "predicted_class": "frog",
+        "confidence": 0.9551193714141846,
+        "correct": true
+    },
+    {
+        "image_number": 7,
+        "actual_class": "automobile",
+        "predicted_class": "automobile",
+        "confidence": 0.9584283828735352,
+        "correct": true
+    },
+    {
+        "image_number": 8,
+        "actual_class": "frog",
+        "predicted_class": "frog",
+        "confidence": 0.6368882656097412,
+        "correct": true
+    },
+    {
+        "image_number": 9,
+        "actual_class": "cat",
+        "predicted_class": "cat",
+        "confidence": 0.5687438249588013,
+        "correct": true
+    },
+    {
+        "image_number": 10,
+        "actual_class": "automobile",
+        "predicted_class": "truck",
+        "confidence": 0.6176590323448181,
+        "correct": false
+    },
+    {
+        "image_number": 11,
+        "actual_class": "airplane",
+        "predicted_class": "deer",
+        "confidence": 0.39106476306915283,
+        "correct": false
+    },
+    {
+        "image_number": 12,
+        "actual_class": "truck",
+        "predicted_class": "truck",
+        "confidence": 0.9999657869338989,
+        "correct": true
+    }
+]

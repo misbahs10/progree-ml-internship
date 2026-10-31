@@ -1,0 +1,28 @@
+{
+    "dataset": "CIFAR-10",
+    "num_classes": 10,
+    "class_names": [
+        "airplane",
+        "automobile",
+        "bird",
+        "cat",
+        "deer",
+        "dog",
+        "frog",
+        "horse",
+        "ship",
+        "truck"
+    ],
+    "training_images": 50000,
+    "testing_images": 10000,
+    "epochs_requested": 20,
+    "epochs_completed": 20,
+    "best_validation_accuracy": 0.7480000257492065,
+    "best_validation_loss": 0.7279159426689148,
+    "best_validation_accuracy_epoch": 20,
+    "test_accuracy": 0.7317000031471252,
+    "test_loss": 0.7788435816764832,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "random_seed": 42
+}
